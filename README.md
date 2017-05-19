@@ -1,12 +1,3 @@
-# CarND-LeNet-Lab
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+# Character Classifier
 
-![LeNet-5 Architecture](lenet.png)
-Implement the LeNet-5 deep neural network model.
-
-### Dependencies
-This lab requires:
-
-* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
-
-The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
+This was a project I worked on for my CSC367 - Foundations in Data Science class that I took at DePaul University. In this project I created a convolutional neural network based on the one created by Yann LeCun called LeNet. My model has been trained using the MINST dataset of hand-drawn characters, so it can predict the labels for hand-drawn characters with an accuracy of 98.9%.
