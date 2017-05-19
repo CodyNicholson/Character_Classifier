@@ -1,5 +1,12 @@
-# Character_Classifier
+# CarND-LeNet-Lab
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-I created this character classifier by using transfer learning for my Intro to Data Science Final Project at DePaul University
+![LeNet-5 Architecture](lenet.png)
+Implement the LeNet-5 deep neural network model.
 
-This neural network is based on Yann LeCun's LeNet architecture
+### Dependencies
+This lab requires:
+
+* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
+
+The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
